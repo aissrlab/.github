@@ -3,7 +3,7 @@ Department of Artificial Intelligence</br>
 Kathmandu University, Panchkhal, Kavrepalanchowk, Nepal
 
 ## Welcome 👋
-Welcome to the official GitHub repository of the **Artificial Intelligence and Smart System Research (AISSRLab)**! We are a dynamic hub dedicated to cutting-edge research and development in the fields of Artificial Intelligence (AI) and Smart Systems. Our mission is to drive innovation, foster collaboration, and create real-world applications that shape the future of AI and intelligent systems.
+Welcome to the official GitHub organization of the **Artificial Intelligence and Smart System Research (AISSRLab)**! We are a dynamic hub dedicated to cutting-edge research and development in the fields of Artificial Intelligence (AI) and Smart Systems. Our mission is to drive innovation, foster collaboration, and create real-world applications that shape the future of AI and intelligent systems.
 
 ## About Us
 At AISSRLab, we focus on advancing core AI principles, including:
